@@ -1,0 +1,136 @@
+.active-icon {
+  width: 56px;
+  height: 56px;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconlylightbag {
+  position: absolute;
+  height: 42.86%;
+  width: 42.86%;
+  top: 28.57%;
+  right: 28.57%;
+  bottom: 28.57%;
+  left: 28.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div18 {
+  position: relative;
+  display: inline-block;
+  min-width: 8px;
+}
+.chat-icon {
+  position: absolute;
+  height: 42.86%;
+  width: 42.86%;
+  top: 1.79%;
+  right: 0;
+  bottom: 55.36%;
+  left: 57.14%;
+  border-radius: 500px;
+  background-color: #ffcc91;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 8px 5px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.active-icon1,
+.active1 {
+  height: 56px;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.active1 {
+  align-self: stretch;
+  background-color: transparent;
+}
+.active-icon1 {
+  width: 56px;
+}
+.iconlybulkfolder {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: contain;
+}
+.active2 {
+  border-radius: 12px;
+  background-color: #5570f1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+.empty-icon {
+  position: relative;
+  display: inline-block;
+  min-width: 14px;
+}
+.empty-icon-wrapper,
+.iconlylightchat {
+  position: absolute;
+  height: 42.86%;
+  width: 42.86%;
+  overflow: hidden;
+}
+.empty-icon-wrapper {
+  top: 1.79%;
+  right: 0;
+  bottom: 55.36%;
+  left: 57.14%;
+  border-radius: 500px;
+  background-color: #ffcc91;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 5px 5px;
+  box-sizing: border-box;
+}
+.iconlylightchat {
+  top: 28.57%;
+  right: 28.57%;
+  bottom: 28.57%;
+  left: 28.57%;
+  max-width: 100%;
+  max-height: 100%;
+  z-index: 1;
+}
+.active-icon2,
+.active3 {
+  height: 56px;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.active3 {
+  align-self: stretch;
+  background-color: transparent;
+}
+.active-icon2 {
+  width: 56px;
+}
+.menuitems {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  text-align: center;
+  font-size: 12px;
+  color: #1c1d22;
+  font-family: Inter;
+}
